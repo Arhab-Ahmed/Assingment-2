@@ -1,0 +1,46 @@
+/* font-family: 'Lato', sans-serif; */
+/* shob font er styles */
+*{
+    font-family: 'Lato', sans-serif;
+}
+/* header styles */
+.header-bg{
+    background:rgba(229, 84, 115, 0.10);
+    background-image: url('../flower-shop-assignment-main/flower-shop-assignment-main/image/pngwing\ 10.png');
+    height: 820px;
+    width: 1450px;
+    padding-right: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+
+}
+.header{
+    padding-left: 120px;
+    padding-right: 700px;
+    padding-top: 120px;
+
+}
+.title{
+    font-size: 80px;
+    font-weight: 800;
+    color: black;
+}
+.discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+.primary-btn{
+    padding: 14px 30px;
+     background: #E55473;
+     border-radius: 6px;
+     font-size: 18px;
+     color: #FFF;
+     
+}
+.btn{
+    padding-top: 15px;
+}
+
+
